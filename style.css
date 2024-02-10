@@ -40,8 +40,8 @@ body {
 }
 .IMAGE1{
     position: absolute;
-    width: 19vw;
-    height: 18vw;
+    width: 15vw;
+    height: 14vw;
     rotate: -5deg;
     border-radius: 20px 20px 250px 250px;
     background-image: url(https://images.unsplash.com/photo-1626770537547-66e789b70e2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==&auto=format&fit=crop&w=2574&q=80);
@@ -52,7 +52,7 @@ body {
 .RIGHT_IMAGE{
     rotate: 7deg;
     width: 15vw;
-    height: 15vw;
+    height: 14vw;
     border-radius: 20px 360px 20px 20px;
     background-image: url(https://images.unsplash.com/photo-1571781926291-c477ebfd024b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80);
     background-position: bottom;
