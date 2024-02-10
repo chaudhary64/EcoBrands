@@ -58,3 +58,17 @@ body {
     background-size: cover;
     background-position: 0 80%;
 }
+
+.scrollDown{
+    animation: scrollDown 0.8s linear infinite alternate;
+}
+
+@keyframes scrollDown {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(8px);
+    }
+    
+}
