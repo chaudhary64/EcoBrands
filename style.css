@@ -73,3 +73,7 @@ body {
     }
     
 }
+
+.Animate{
+    transition: all linear .3s;
+}
