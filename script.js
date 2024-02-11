@@ -24,7 +24,7 @@ gsap.to('.mDivOne p', {
 })
 
 gsap.to('.mDivTwo p', {
-    x: 80, scrollTrigger: {
+    x: -80, scrollTrigger: {
         trigger: ".mDivTwo",
         scroll: "body",
         scrub: 5,
